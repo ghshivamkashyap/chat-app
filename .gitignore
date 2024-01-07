@@ -29,3 +29,4 @@ yarn-debug.log*
 yarn-error.log*
 server/.env
 server/.env
+server/.env
